@@ -1,0 +1,1006 @@
+		<level id="1" name="roomed" length="30" width="30" author="Rok 8 Studios" rooms_number="14" >
+			<rooms>
+				<room id="1">
+					<Tile col="2" row="1" />
+					<Tile col="1" row="1" />
+					<Tile col="3" row="1" />
+					<Tile col="1" row="2" />
+					<Tile col="2" row="2" />
+					<Tile col="3" row="2" />
+					<Tile col="4" row="1" />
+					<Tile col="4" row="2" />
+					<Tile col="1" row="3" />
+					<Tile col="2" row="3" />
+					<Tile col="3" row="3" />
+					<Tile col="4" row="3" />
+					<Tile col="5" row="1" />
+					<Tile col="5" row="2" />
+					<Tile col="5" row="3" />
+					<doors>
+						<Door id="118" row="2" col="6" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+						<Start id="260" row="1" col="2" />
+					</entities>
+				</room>
+				<room id="2">
+					<Tile col="7" row="2" />
+					<Tile col="7" row="1" />
+					<Tile col="8" row="1" />
+					<Tile col="8" row="2" />
+					<Tile col="7" row="3" />
+					<Tile col="8" row="3" />
+					<Tile col="9" row="1" />
+					<Tile col="9" row="2" />
+					<Tile col="9" row="3" />
+					<Tile col="10" row="1" />
+					<Tile col="10" row="2" />
+					<Tile col="10" row="3" />
+					<Tile col="11" row="1" />
+					<Tile col="11" row="2" />
+					<Tile col="11" row="3" />
+					<Tile col="12" row="1" />
+					<Tile col="12" row="2" />
+					<Tile col="12" row="3" />
+					<doors>
+						<Door id="118" row="2" col="6" hidden="False" orientation="East"/>
+						<Door id="223" row="4" col="10" hidden="False" orientation="South"/>
+						<Door id="146" row="2" col="13" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="3">
+					<Tile col="10" row="5" />
+					<Tile col="9" row="5" />
+					<Tile col="11" row="5" />
+					<Tile col="9" row="6" />
+					<Tile col="10" row="6" />
+					<Tile col="11" row="6" />
+					<Tile col="8" row="5" />
+					<Tile col="8" row="6" />
+					<Tile col="12" row="5" />
+					<Tile col="12" row="6" />
+					<Tile col="8" row="7" />
+					<Tile col="9" row="7" />
+					<Tile col="10" row="7" />
+					<Tile col="11" row="7" />
+					<Tile col="12" row="7" />
+					<Tile col="7" row="5" />
+					<Tile col="7" row="6" />
+					<Tile col="7" row="7" />
+					<Tile col="7" row="8" />
+					<Tile col="8" row="8" />
+					<Tile col="9" row="8" />
+					<Tile col="10" row="8" />
+					<Tile col="11" row="8" />
+					<Tile col="12" row="8" />
+					<Tile col="7" row="9" />
+					<Tile col="8" row="9" />
+					<Tile col="9" row="9" />
+					<Tile col="10" row="9" />
+					<Tile col="11" row="9" />
+					<Tile col="12" row="9" />
+					<doors>
+						<Door id="223" row="4" col="10" hidden="False" orientation="South"/>
+						<Door id="122" row="6" col="6" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="4">
+					<Tile col="14" row="2" />
+					<Tile col="14" row="1" />
+					<Tile col="15" row="1" />
+					<Tile col="15" row="2" />
+					<Tile col="14" row="3" />
+					<Tile col="15" row="3" />
+					<Tile col="16" row="1" />
+					<Tile col="16" row="2" />
+					<Tile col="16" row="3" />
+					<Tile col="17" row="1" />
+					<Tile col="17" row="2" />
+					<Tile col="17" row="3" />
+					<doors>
+						<Door id="146" row="2" col="13" hidden="False" orientation="East"/>
+						<Door id="227" row="4" col="15" hidden="False" orientation="North"/>
+						<Door id="174" row="2" col="18" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="5">
+					<Tile col="5" row="6" />
+					<Tile col="4" row="5" />
+					<Tile col="5" row="5" />
+					<Tile col="4" row="6" />
+					<Tile col="4" row="7" />
+					<Tile col="5" row="7" />
+					<Tile col="3" row="5" />
+					<Tile col="3" row="6" />
+					<Tile col="3" row="7" />
+					<Tile col="3" row="8" />
+					<Tile col="4" row="8" />
+					<Tile col="5" row="8" />
+					<Tile col="2" row="5" />
+					<Tile col="2" row="6" />
+					<Tile col="2" row="7" />
+					<Tile col="2" row="8" />
+					<Tile col="2" row="9" />
+					<Tile col="3" row="9" />
+					<Tile col="4" row="9" />
+					<Tile col="5" row="9" />
+					<Tile col="1" row="5" />
+					<Tile col="1" row="6" />
+					<Tile col="1" row="7" />
+					<Tile col="1" row="8" />
+					<Tile col="1" row="9" />
+					<doors>
+						<Door id="122" row="6" col="6" hidden="False" orientation="East"/>
+						<Door id="232" row="10" col="3" hidden="False" orientation="North"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="6">
+					<Tile col="15" row="5" />
+					<Tile col="14" row="5" />
+					<Tile col="16" row="5" />
+					<Tile col="14" row="6" />
+					<Tile col="15" row="6" />
+					<Tile col="16" row="6" />
+					<Tile col="17" row="5" />
+					<Tile col="17" row="6" />
+					<Tile col="14" row="7" />
+					<Tile col="15" row="7" />
+					<Tile col="16" row="7" />
+					<Tile col="17" row="7" />
+					<Tile col="14" row="8" />
+					<Tile col="15" row="8" />
+					<Tile col="16" row="8" />
+					<Tile col="17" row="8" />
+					<Tile col="14" row="9" />
+					<Tile col="15" row="9" />
+					<Tile col="16" row="9" />
+					<Tile col="17" row="9" />
+					<doors>
+						<Door id="227" row="4" col="15" hidden="False" orientation="North"/>
+						<Door id="178" row="6" col="18" hidden="False" orientation="East"/>
+						<Door id="243" row="10" col="16" hidden="False" orientation="North"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="7">
+					<Tile col="19" row="2" />
+					<Tile col="19" row="1" />
+					<Tile col="20" row="1" />
+					<Tile col="20" row="2" />
+					<Tile col="19" row="3" />
+					<Tile col="20" row="3" />
+					<Tile col="21" row="1" />
+					<Tile col="21" row="2" />
+					<Tile col="21" row="3" />
+					<Tile col="19" row="4" />
+					<Tile col="20" row="4" />
+					<Tile col="21" row="4" />
+					<Tile col="22" row="1" />
+					<Tile col="22" row="2" />
+					<Tile col="22" row="3" />
+					<Tile col="22" row="4" />
+					<Tile col="19" row="5" />
+					<Tile col="20" row="5" />
+					<Tile col="21" row="5" />
+					<Tile col="22" row="5" />
+					<Tile col="23" row="1" />
+					<Tile col="23" row="2" />
+					<Tile col="23" row="3" />
+					<Tile col="23" row="4" />
+					<Tile col="23" row="5" />
+					<Tile col="19" row="6" />
+					<Tile col="20" row="6" />
+					<Tile col="21" row="6" />
+					<Tile col="22" row="6" />
+					<Tile col="23" row="6" />
+					<Tile col="24" row="1" />
+					<Tile col="24" row="2" />
+					<Tile col="24" row="3" />
+					<Tile col="24" row="4" />
+					<Tile col="24" row="5" />
+					<Tile col="24" row="6" />
+					<Tile col="19" row="7" />
+					<Tile col="20" row="7" />
+					<Tile col="21" row="7" />
+					<Tile col="22" row="7" />
+					<Tile col="23" row="7" />
+					<Tile col="24" row="7" />
+					<Tile col="25" row="1" />
+					<Tile col="25" row="2" />
+					<Tile col="25" row="3" />
+					<Tile col="25" row="4" />
+					<Tile col="25" row="5" />
+					<Tile col="25" row="6" />
+					<Tile col="25" row="7" />
+					<Tile col="19" row="8" />
+					<Tile col="20" row="8" />
+					<Tile col="21" row="8" />
+					<Tile col="22" row="8" />
+					<Tile col="23" row="8" />
+					<Tile col="24" row="8" />
+					<Tile col="25" row="8" />
+					<Tile col="26" row="1" />
+					<Tile col="26" row="2" />
+					<Tile col="26" row="3" />
+					<Tile col="26" row="4" />
+					<Tile col="26" row="5" />
+					<Tile col="26" row="6" />
+					<Tile col="26" row="7" />
+					<Tile col="26" row="8" />
+					<Tile col="19" row="9" />
+					<Tile col="20" row="9" />
+					<Tile col="21" row="9" />
+					<Tile col="22" row="9" />
+					<Tile col="23" row="9" />
+					<Tile col="24" row="9" />
+					<Tile col="25" row="9" />
+					<Tile col="26" row="9" />
+					<Tile col="27" row="1" />
+					<Tile col="27" row="2" />
+					<Tile col="27" row="3" />
+					<Tile col="27" row="4" />
+					<Tile col="27" row="5" />
+					<Tile col="27" row="6" />
+					<Tile col="27" row="7" />
+					<Tile col="27" row="8" />
+					<Tile col="27" row="9" />
+					<Tile col="19" row="10" />
+					<Tile col="20" row="10" />
+					<Tile col="21" row="10" />
+					<Tile col="22" row="10" />
+					<Tile col="23" row="10" />
+					<Tile col="24" row="10" />
+					<Tile col="25" row="10" />
+					<Tile col="26" row="10" />
+					<Tile col="27" row="10" />
+					<Tile col="28" row="1" />
+					<Tile col="28" row="2" />
+					<Tile col="28" row="3" />
+					<Tile col="28" row="4" />
+					<Tile col="28" row="5" />
+					<Tile col="28" row="6" />
+					<Tile col="28" row="7" />
+					<Tile col="28" row="8" />
+					<Tile col="28" row="9" />
+					<Tile col="28" row="10" />
+					<Tile col="19" row="11" />
+					<Tile col="20" row="11" />
+					<Tile col="21" row="11" />
+					<Tile col="22" row="11" />
+					<Tile col="23" row="11" />
+					<Tile col="24" row="11" />
+					<Tile col="25" row="11" />
+					<Tile col="26" row="11" />
+					<Tile col="27" row="11" />
+					<Tile col="28" row="11" />
+					<Tile col="19" row="12" />
+					<Tile col="20" row="12" />
+					<Tile col="21" row="12" />
+					<Tile col="22" row="12" />
+					<Tile col="23" row="12" />
+					<Tile col="24" row="12" />
+					<Tile col="25" row="12" />
+					<Tile col="26" row="12" />
+					<Tile col="27" row="12" />
+					<Tile col="28" row="12" />
+					<Tile col="19" row="13" />
+					<Tile col="20" row="13" />
+					<Tile col="21" row="13" />
+					<Tile col="22" row="13" />
+					<Tile col="23" row="13" />
+					<Tile col="24" row="13" />
+					<Tile col="25" row="13" />
+					<Tile col="26" row="13" />
+					<Tile col="27" row="13" />
+					<Tile col="28" row="13" />
+					<Tile col="19" row="14" />
+					<Tile col="20" row="14" />
+					<Tile col="21" row="14" />
+					<Tile col="22" row="14" />
+					<Tile col="23" row="14" />
+					<Tile col="24" row="14" />
+					<Tile col="25" row="14" />
+					<Tile col="26" row="14" />
+					<Tile col="27" row="14" />
+					<Tile col="28" row="14" />
+					<Tile col="19" row="15" />
+					<Tile col="20" row="15" />
+					<Tile col="21" row="15" />
+					<Tile col="22" row="15" />
+					<Tile col="23" row="15" />
+					<Tile col="24" row="15" />
+					<Tile col="25" row="15" />
+					<Tile col="26" row="15" />
+					<Tile col="27" row="15" />
+					<Tile col="28" row="15" />
+					<Tile col="19" row="16" />
+					<Tile col="20" row="16" />
+					<Tile col="21" row="16" />
+					<Tile col="22" row="16" />
+					<Tile col="23" row="16" />
+					<Tile col="24" row="16" />
+					<Tile col="25" row="16" />
+					<Tile col="26" row="16" />
+					<Tile col="27" row="16" />
+					<Tile col="28" row="16" />
+					<doors>
+						<Door id="174" row="2" col="18" hidden="False" orientation="East"/>
+						<Door id="178" row="6" col="18" hidden="False" orientation="East"/>
+						<Door id="209" row="17" col="23" hidden="False" orientation="North"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="8">
+					<Tile col="3" row="11" />
+					<Tile col="2" row="11" />
+					<Tile col="4" row="11" />
+					<Tile col="2" row="12" />
+					<Tile col="3" row="12" />
+					<Tile col="4" row="12" />
+					<Tile col="1" row="11" />
+					<Tile col="1" row="12" />
+					<Tile col="5" row="11" />
+					<Tile col="5" row="12" />
+					<Tile col="1" row="13" />
+					<Tile col="2" row="13" />
+					<Tile col="3" row="13" />
+					<Tile col="4" row="13" />
+					<Tile col="5" row="13" />
+					<Tile col="1" row="14" />
+					<Tile col="2" row="14" />
+					<Tile col="3" row="14" />
+					<Tile col="4" row="14" />
+					<Tile col="5" row="14" />
+					<Tile col="1" row="15" />
+					<Tile col="2" row="15" />
+					<Tile col="3" row="15" />
+					<Tile col="4" row="15" />
+					<Tile col="5" row="15" />
+					<Tile col="1" row="16" />
+					<Tile col="2" row="16" />
+					<Tile col="3" row="16" />
+					<Tile col="4" row="16" />
+					<Tile col="5" row="16" />
+					<doors>
+						<Door id="232" row="10" col="3" hidden="False" orientation="North"/>
+						<Door id="129" row="13" col="6" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="9">
+					<Tile col="16" row="11" />
+					<Tile col="15" row="11" />
+					<Tile col="17" row="11" />
+					<Tile col="15" row="12" />
+					<Tile col="16" row="12" />
+					<Tile col="17" row="12" />
+					<Tile col="14" row="11" />
+					<Tile col="14" row="12" />
+					<Tile col="14" row="13" />
+					<Tile col="15" row="13" />
+					<Tile col="16" row="13" />
+					<Tile col="17" row="13" />
+					<Tile col="14" row="14" />
+					<Tile col="15" row="14" />
+					<Tile col="16" row="14" />
+					<Tile col="17" row="14" />
+					<Tile col="14" row="15" />
+					<Tile col="15" row="15" />
+					<Tile col="16" row="15" />
+					<Tile col="17" row="15" />
+					<Tile col="14" row="16" />
+					<Tile col="15" row="16" />
+					<Tile col="16" row="16" />
+					<Tile col="17" row="16" />
+					<doors>
+						<Door id="243" row="10" col="16" hidden="False" orientation="North"/>
+						<Door id="157" row="13" col="13" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="10">
+					<Tile col="23" row="18" />
+					<Tile col="22" row="18" />
+					<Tile col="24" row="18" />
+					<Tile col="22" row="19" />
+					<Tile col="23" row="19" />
+					<Tile col="24" row="19" />
+					<Tile col="21" row="18" />
+					<Tile col="21" row="19" />
+					<Tile col="25" row="18" />
+					<Tile col="25" row="19" />
+					<Tile col="21" row="20" />
+					<Tile col="22" row="20" />
+					<Tile col="23" row="20" />
+					<Tile col="24" row="20" />
+					<Tile col="25" row="20" />
+					<Tile col="20" row="18" />
+					<Tile col="20" row="19" />
+					<Tile col="20" row="20" />
+					<Tile col="26" row="18" />
+					<Tile col="26" row="19" />
+					<Tile col="26" row="20" />
+					<Tile col="20" row="21" />
+					<Tile col="21" row="21" />
+					<Tile col="22" row="21" />
+					<Tile col="23" row="21" />
+					<Tile col="24" row="21" />
+					<Tile col="25" row="21" />
+					<Tile col="26" row="21" />
+					<Tile col="19" row="18" />
+					<Tile col="19" row="19" />
+					<Tile col="19" row="20" />
+					<Tile col="19" row="21" />
+					<Tile col="27" row="18" />
+					<Tile col="27" row="19" />
+					<Tile col="27" row="20" />
+					<Tile col="27" row="21" />
+					<Tile col="19" row="22" />
+					<Tile col="20" row="22" />
+					<Tile col="21" row="22" />
+					<Tile col="22" row="22" />
+					<Tile col="23" row="22" />
+					<Tile col="24" row="22" />
+					<Tile col="25" row="22" />
+					<Tile col="26" row="22" />
+					<Tile col="27" row="22" />
+					<Tile col="18" row="18" />
+					<Tile col="18" row="19" />
+					<Tile col="18" row="20" />
+					<Tile col="18" row="21" />
+					<Tile col="18" row="22" />
+					<Tile col="28" row="18" />
+					<Tile col="28" row="19" />
+					<Tile col="28" row="20" />
+					<Tile col="28" row="21" />
+					<Tile col="28" row="22" />
+					<Tile col="17" row="18" />
+					<Tile col="17" row="19" />
+					<Tile col="17" row="20" />
+					<Tile col="17" row="21" />
+					<Tile col="17" row="22" />
+					<Tile col="16" row="18" />
+					<Tile col="16" row="19" />
+					<Tile col="16" row="20" />
+					<Tile col="16" row="21" />
+					<Tile col="16" row="22" />
+					<Tile col="15" row="18" />
+					<Tile col="15" row="19" />
+					<Tile col="15" row="20" />
+					<Tile col="15" row="21" />
+					<Tile col="15" row="22" />
+					<Tile col="14" row="18" />
+					<Tile col="14" row="19" />
+					<Tile col="14" row="20" />
+					<Tile col="14" row="21" />
+					<Tile col="14" row="22" />
+					<doors>
+						<Door id="209" row="17" col="23" hidden="False" orientation="North"/>
+						<Door id="163" row="19" col="13" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="11">
+					<Tile col="7" row="13" />
+					<Tile col="7" row="12" />
+					<Tile col="8" row="12" />
+					<Tile col="8" row="13" />
+					<Tile col="7" row="14" />
+					<Tile col="8" row="14" />
+					<Tile col="7" row="11" />
+					<Tile col="8" row="11" />
+					<Tile col="9" row="11" />
+					<Tile col="9" row="12" />
+					<Tile col="9" row="13" />
+					<Tile col="9" row="14" />
+					<Tile col="7" row="15" />
+					<Tile col="8" row="15" />
+					<Tile col="9" row="15" />
+					<Tile col="10" row="11" />
+					<Tile col="10" row="12" />
+					<Tile col="10" row="13" />
+					<Tile col="10" row="14" />
+					<Tile col="10" row="15" />
+					<Tile col="7" row="16" />
+					<Tile col="8" row="16" />
+					<Tile col="9" row="16" />
+					<Tile col="10" row="16" />
+					<Tile col="11" row="11" />
+					<Tile col="11" row="12" />
+					<Tile col="11" row="13" />
+					<Tile col="11" row="14" />
+					<Tile col="11" row="15" />
+					<Tile col="11" row="16" />
+					<Tile col="12" row="11" />
+					<Tile col="12" row="12" />
+					<Tile col="12" row="13" />
+					<Tile col="12" row="14" />
+					<Tile col="12" row="15" />
+					<Tile col="12" row="16" />
+					<doors>
+						<Door id="129" row="13" col="6" hidden="False" orientation="East"/>
+						<Door id="157" row="13" col="13" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="12">
+					<Tile col="12" row="19" />
+					<Tile col="11" row="18" />
+					<Tile col="12" row="18" />
+					<Tile col="11" row="19" />
+					<Tile col="11" row="20" />
+					<Tile col="12" row="20" />
+					<Tile col="10" row="18" />
+					<Tile col="10" row="19" />
+					<Tile col="10" row="20" />
+					<Tile col="10" row="21" />
+					<Tile col="11" row="21" />
+					<Tile col="12" row="21" />
+					<Tile col="9" row="18" />
+					<Tile col="9" row="19" />
+					<Tile col="9" row="20" />
+					<Tile col="9" row="21" />
+					<Tile col="9" row="22" />
+					<Tile col="10" row="22" />
+					<Tile col="11" row="22" />
+					<Tile col="12" row="22" />
+					<Tile col="8" row="18" />
+					<Tile col="8" row="19" />
+					<Tile col="8" row="20" />
+					<Tile col="8" row="21" />
+					<Tile col="8" row="22" />
+					<Tile col="8" row="23" />
+					<Tile col="9" row="23" />
+					<Tile col="10" row="23" />
+					<Tile col="11" row="23" />
+					<Tile col="12" row="23" />
+					<Tile col="7" row="18" />
+					<Tile col="7" row="19" />
+					<Tile col="7" row="20" />
+					<Tile col="7" row="21" />
+					<Tile col="7" row="22" />
+					<Tile col="7" row="23" />
+					<Tile col="7" row="24" />
+					<Tile col="8" row="24" />
+					<Tile col="9" row="24" />
+					<Tile col="10" row="24" />
+					<Tile col="11" row="24" />
+					<Tile col="12" row="24" />
+					<Tile col="7" row="25" />
+					<Tile col="8" row="25" />
+					<Tile col="9" row="25" />
+					<Tile col="10" row="25" />
+					<Tile col="11" row="25" />
+					<Tile col="12" row="25" />
+					<Tile col="7" row="26" />
+					<Tile col="8" row="26" />
+					<Tile col="9" row="26" />
+					<Tile col="10" row="26" />
+					<Tile col="11" row="26" />
+					<Tile col="12" row="26" />
+					<Tile col="7" row="27" />
+					<Tile col="8" row="27" />
+					<Tile col="9" row="27" />
+					<Tile col="10" row="27" />
+					<Tile col="11" row="27" />
+					<Tile col="12" row="27" />
+					<Tile col="7" row="28" />
+					<Tile col="8" row="28" />
+					<Tile col="9" row="28" />
+					<Tile col="10" row="28" />
+					<Tile col="11" row="28" />
+					<Tile col="12" row="28" />
+					<doors>
+						<Door id="163" row="19" col="13" hidden="False" orientation="East"/>
+						<Door id="137" row="21" col="6" hidden="False" orientation="East"/>
+						<Door id="170" row="26" col="13" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="13">
+					<Tile col="5" row="21" />
+					<Tile col="4" row="20" />
+					<Tile col="5" row="20" />
+					<Tile col="4" row="21" />
+					<Tile col="4" row="22" />
+					<Tile col="5" row="22" />
+					<Tile col="3" row="19" />
+					<Tile col="4" row="19" />
+					<Tile col="5" row="19" />
+					<Tile col="3" row="20" />
+					<Tile col="3" row="21" />
+					<Tile col="3" row="22" />
+					<Tile col="3" row="23" />
+					<Tile col="4" row="23" />
+					<Tile col="5" row="23" />
+					<Tile col="2" row="18" />
+					<Tile col="3" row="18" />
+					<Tile col="4" row="18" />
+					<Tile col="2" row="19" />
+					<Tile col="2" row="20" />
+					<Tile col="5" row="18" />
+					<Tile col="2" row="21" />
+					<Tile col="2" row="22" />
+					<Tile col="2" row="23" />
+					<Tile col="2" row="24" />
+					<Tile col="3" row="24" />
+					<Tile col="4" row="24" />
+					<Tile col="5" row="24" />
+					<Tile col="1" row="18" />
+					<Tile col="1" row="19" />
+					<Tile col="1" row="20" />
+					<Tile col="1" row="21" />
+					<Tile col="1" row="22" />
+					<Tile col="1" row="23" />
+					<Tile col="1" row="24" />
+					<Tile col="1" row="25" />
+					<Tile col="2" row="25" />
+					<Tile col="3" row="25" />
+					<Tile col="4" row="25" />
+					<Tile col="5" row="25" />
+					<Tile col="1" row="26" />
+					<Tile col="2" row="26" />
+					<Tile col="3" row="26" />
+					<Tile col="4" row="26" />
+					<Tile col="5" row="26" />
+					<Tile col="1" row="27" />
+					<Tile col="2" row="27" />
+					<Tile col="3" row="27" />
+					<Tile col="4" row="27" />
+					<Tile col="5" row="27" />
+					<Tile col="1" row="28" />
+					<Tile col="2" row="28" />
+					<Tile col="3" row="28" />
+					<Tile col="4" row="28" />
+					<Tile col="5" row="28" />
+					<doors>
+						<Door id="137" row="21" col="6" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+				<room id="14">
+					<Tile col="14" row="26" />
+					<Tile col="14" row="25" />
+					<Tile col="15" row="25" />
+					<Tile col="15" row="26" />
+					<Tile col="14" row="27" />
+					<Tile col="15" row="27" />
+					<Tile col="14" row="24" />
+					<Tile col="15" row="24" />
+					<Tile col="16" row="24" />
+					<Tile col="16" row="25" />
+					<Tile col="16" row="26" />
+					<Tile col="16" row="27" />
+					<Tile col="14" row="28" />
+					<Tile col="15" row="28" />
+					<Tile col="16" row="28" />
+					<Tile col="17" row="24" />
+					<Tile col="17" row="25" />
+					<Tile col="17" row="26" />
+					<Tile col="17" row="27" />
+					<Tile col="17" row="28" />
+					<Tile col="18" row="24" />
+					<Tile col="18" row="25" />
+					<Tile col="18" row="26" />
+					<Tile col="18" row="27" />
+					<Tile col="18" row="28" />
+					<Tile col="19" row="24" />
+					<Tile col="19" row="25" />
+					<Tile col="19" row="26" />
+					<Tile col="19" row="27" />
+					<Tile col="19" row="28" />
+					<Tile col="20" row="24" />
+					<Tile col="20" row="25" />
+					<Tile col="20" row="26" />
+					<Tile col="20" row="27" />
+					<Tile col="20" row="28" />
+					<Tile col="21" row="24" />
+					<Tile col="21" row="25" />
+					<Tile col="21" row="26" />
+					<Tile col="21" row="27" />
+					<Tile col="21" row="28" />
+					<Tile col="22" row="24" />
+					<Tile col="22" row="25" />
+					<Tile col="22" row="26" />
+					<Tile col="22" row="27" />
+					<Tile col="22" row="28" />
+					<Tile col="23" row="24" />
+					<Tile col="23" row="25" />
+					<Tile col="23" row="26" />
+					<Tile col="23" row="27" />
+					<Tile col="23" row="28" />
+					<Tile col="24" row="24" />
+					<Tile col="24" row="25" />
+					<Tile col="24" row="26" />
+					<Tile col="24" row="27" />
+					<Tile col="24" row="28" />
+					<Tile col="25" row="24" />
+					<Tile col="25" row="25" />
+					<Tile col="25" row="26" />
+					<Tile col="25" row="27" />
+					<Tile col="25" row="28" />
+					<Tile col="26" row="24" />
+					<Tile col="26" row="25" />
+					<Tile col="26" row="26" />
+					<Tile col="26" row="27" />
+					<Tile col="26" row="28" />
+					<Tile col="27" row="24" />
+					<Tile col="27" row="25" />
+					<Tile col="27" row="26" />
+					<Tile col="27" row="27" />
+					<Tile col="27" row="28" />
+					<Tile col="28" row="24" />
+					<Tile col="28" row="25" />
+					<Tile col="28" row="26" />
+					<Tile col="28" row="27" />
+					<Tile col="28" row="28" />
+					<doors>
+						<Door id="170" row="26" col="13" hidden="False" orientation="East"/>
+					</doors>
+					<entities>
+					</entities>
+				</room>
+			</rooms>
+			<walls>
+				<Wall id="2" row="0" col="1" />
+				<Wall id="3" row="0" col="2" />
+				<Wall id="4" row="0" col="3" />
+				<Wall id="1" row="0" col="0" />
+				<Wall id="90" row="1" col="0" />
+				<Wall id="91" row="2" col="0" />
+				<Wall id="5" row="0" col="4" />
+				<Wall id="92" row="3" col="0" />
+				<Wall id="6" row="0" col="5" />
+				<Wall id="93" row="4" col="0" />
+				<Wall id="215" row="4" col="1" />
+				<Wall id="216" row="4" col="2" />
+				<Wall id="217" row="4" col="3" />
+				<Wall id="218" row="4" col="4" />
+				<Wall id="219" row="4" col="5" />
+				<Wall id="7" row="0" col="6" />
+				<Wall id="117" row="1" col="6" />
+				<Wall id="119" row="3" col="6" />
+				<Wall id="120" row="4" col="6" />
+				<Wall id="8" row="0" col="7" />
+				<Wall id="9" row="0" col="8" />
+				<Wall id="10" row="0" col="9" />
+				<Wall id="220" row="4" col="7" />
+				<Wall id="221" row="4" col="8" />
+				<Wall id="222" row="4" col="9" />
+				<Wall id="11" row="0" col="10" />
+				<Wall id="12" row="0" col="11" />
+				<Wall id="224" row="4" col="11" />
+				<Wall id="13" row="0" col="12" />
+				<Wall id="225" row="4" col="12" />
+				<Wall id="14" row="0" col="13" />
+				<Wall id="145" row="1" col="13" />
+				<Wall id="147" row="3" col="13" />
+				<Wall id="148" row="4" col="13" />
+				<Wall id="149" row="5" col="13" />
+				<Wall id="150" row="6" col="13" />
+				<Wall id="151" row="7" col="13" />
+				<Wall id="152" row="8" col="13" />
+				<Wall id="121" row="5" col="6" />
+				<Wall id="123" row="7" col="6" />
+				<Wall id="124" row="8" col="6" />
+				<Wall id="125" row="9" col="6" />
+				<Wall id="153" row="9" col="13" />
+				<Wall id="126" row="10" col="6" />
+				<Wall id="235" row="10" col="7" />
+				<Wall id="236" row="10" col="8" />
+				<Wall id="237" row="10" col="9" />
+				<Wall id="238" row="10" col="10" />
+				<Wall id="239" row="10" col="11" />
+				<Wall id="240" row="10" col="12" />
+				<Wall id="154" row="10" col="13" />
+				<Wall id="15" row="0" col="14" />
+				<Wall id="16" row="0" col="15" />
+				<Wall id="17" row="0" col="16" />
+				<Wall id="226" row="4" col="14" />
+				<Wall id="228" row="4" col="16" />
+				<Wall id="18" row="0" col="17" />
+				<Wall id="229" row="4" col="17" />
+				<Wall id="19" row="0" col="18" />
+				<Wall id="173" row="1" col="18" />
+				<Wall id="175" row="3" col="18" />
+				<Wall id="176" row="4" col="18" />
+				<Wall id="230" row="10" col="1" />
+				<Wall id="231" row="10" col="2" />
+				<Wall id="233" row="10" col="4" />
+				<Wall id="234" row="10" col="5" />
+				<Wall id="94" row="5" col="0" />
+				<Wall id="95" row="6" col="0" />
+				<Wall id="96" row="7" col="0" />
+				<Wall id="97" row="8" col="0" />
+				<Wall id="98" row="9" col="0" />
+				<Wall id="99" row="10" col="0" />
+				<Wall id="177" row="5" col="18" />
+				<Wall id="179" row="7" col="18" />
+				<Wall id="180" row="8" col="18" />
+				<Wall id="181" row="9" col="18" />
+				<Wall id="241" row="10" col="14" />
+				<Wall id="242" row="10" col="15" />
+				<Wall id="244" row="10" col="17" />
+				<Wall id="182" row="10" col="18" />
+				<Wall id="20" row="0" col="19" />
+				<Wall id="21" row="0" col="20" />
+				<Wall id="22" row="0" col="21" />
+				<Wall id="23" row="0" col="22" />
+				<Wall id="24" row="0" col="23" />
+				<Wall id="25" row="0" col="24" />
+				<Wall id="26" row="0" col="25" />
+				<Wall id="27" row="0" col="26" />
+				<Wall id="28" row="0" col="27" />
+				<Wall id="29" row="0" col="28" />
+				<Wall id="183" row="11" col="18" />
+				<Wall id="30" row="0" col="29" />
+				<Wall id="31" row="1" col="29" />
+				<Wall id="32" row="2" col="29" />
+				<Wall id="33" row="3" col="29" />
+				<Wall id="34" row="4" col="29" />
+				<Wall id="35" row="5" col="29" />
+				<Wall id="36" row="6" col="29" />
+				<Wall id="39" row="7" col="29" />
+				<Wall id="37" row="8" col="29" />
+				<Wall id="38" row="9" col="29" />
+				<Wall id="40" row="10" col="29" />
+				<Wall id="41" row="11" col="29" />
+				<Wall id="184" row="12" col="18" />
+				<Wall id="42" row="12" col="29" />
+				<Wall id="185" row="13" col="18" />
+				<Wall id="43" row="13" col="29" />
+				<Wall id="186" row="14" col="18" />
+				<Wall id="44" row="14" col="29" />
+				<Wall id="187" row="15" col="18" />
+				<Wall id="45" row="15" col="29" />
+				<Wall id="188" row="16" col="18" />
+				<Wall id="46" row="16" col="29" />
+				<Wall id="189" row="17" col="18" />
+				<Wall id="205" row="17" col="19" />
+				<Wall id="206" row="17" col="20" />
+				<Wall id="207" row="17" col="21" />
+				<Wall id="208" row="17" col="22" />
+				<Wall id="210" row="17" col="24" />
+				<Wall id="211" row="17" col="25" />
+				<Wall id="212" row="17" col="26" />
+				<Wall id="213" row="17" col="27" />
+				<Wall id="214" row="17" col="28" />
+				<Wall id="47" row="17" col="29" />
+				<Wall id="100" row="11" col="0" />
+				<Wall id="101" row="12" col="0" />
+				<Wall id="103" row="13" col="0" />
+				<Wall id="127" row="11" col="6" />
+				<Wall id="128" row="12" col="6" />
+				<Wall id="102" row="14" col="0" />
+				<Wall id="130" row="14" col="6" />
+				<Wall id="104" row="15" col="0" />
+				<Wall id="131" row="15" col="6" />
+				<Wall id="105" row="16" col="0" />
+				<Wall id="132" row="16" col="6" />
+				<Wall id="106" row="17" col="0" />
+				<Wall id="190" row="17" col="1" />
+				<Wall id="191" row="17" col="2" />
+				<Wall id="192" row="17" col="3" />
+				<Wall id="193" row="17" col="4" />
+				<Wall id="194" row="17" col="5" />
+				<Wall id="133" row="17" col="6" />
+				<Wall id="155" row="11" col="13" />
+				<Wall id="156" row="12" col="13" />
+				<Wall id="158" row="14" col="13" />
+				<Wall id="159" row="15" col="13" />
+				<Wall id="160" row="16" col="13" />
+				<Wall id="161" row="17" col="13" />
+				<Wall id="201" row="17" col="14" />
+				<Wall id="202" row="17" col="15" />
+				<Wall id="203" row="17" col="16" />
+				<Wall id="204" row="17" col="17" />
+				<Wall id="249" row="23" col="18" />
+				<Wall id="250" row="23" col="19" />
+				<Wall id="251" row="23" col="20" />
+				<Wall id="252" row="23" col="21" />
+				<Wall id="253" row="23" col="22" />
+				<Wall id="254" row="23" col="23" />
+				<Wall id="255" row="23" col="24" />
+				<Wall id="256" row="23" col="25" />
+				<Wall id="257" row="23" col="26" />
+				<Wall id="258" row="23" col="27" />
+				<Wall id="259" row="23" col="28" />
+				<Wall id="248" row="23" col="17" />
+				<Wall id="48" row="18" col="29" />
+				<Wall id="49" row="19" col="29" />
+				<Wall id="50" row="20" col="29" />
+				<Wall id="51" row="21" col="29" />
+				<Wall id="52" row="22" col="29" />
+				<Wall id="53" row="23" col="29" />
+				<Wall id="247" row="23" col="16" />
+				<Wall id="246" row="23" col="15" />
+				<Wall id="245" row="23" col="14" />
+				<Wall id="162" row="18" col="13" />
+				<Wall id="164" row="20" col="13" />
+				<Wall id="165" row="21" col="13" />
+				<Wall id="166" row="22" col="13" />
+				<Wall id="167" row="23" col="13" />
+				<Wall id="195" row="17" col="7" />
+				<Wall id="196" row="17" col="8" />
+				<Wall id="197" row="17" col="9" />
+				<Wall id="198" row="17" col="10" />
+				<Wall id="199" row="17" col="11" />
+				<Wall id="200" row="17" col="12" />
+				<Wall id="168" row="24" col="13" />
+				<Wall id="134" row="18" col="6" />
+				<Wall id="135" row="19" col="6" />
+				<Wall id="136" row="20" col="6" />
+				<Wall id="138" row="22" col="6" />
+				<Wall id="139" row="23" col="6" />
+				<Wall id="140" row="24" col="6" />
+				<Wall id="141" row="25" col="6" />
+				<Wall id="169" row="25" col="13" />
+				<Wall id="142" row="26" col="6" />
+				<Wall id="143" row="27" col="6" />
+				<Wall id="171" row="27" col="13" />
+				<Wall id="144" row="28" col="6" />
+				<Wall id="172" row="28" col="13" />
+				<Wall id="82" row="29" col="6" />
+				<Wall id="81" row="29" col="7" />
+				<Wall id="80" row="29" col="8" />
+				<Wall id="79" row="29" col="9" />
+				<Wall id="78" row="29" col="10" />
+				<Wall id="77" row="29" col="11" />
+				<Wall id="76" row="29" col="12" />
+				<Wall id="75" row="29" col="13" />
+				<Wall id="107" row="18" col="0" />
+				<Wall id="108" row="19" col="0" />
+				<Wall id="109" row="20" col="0" />
+				<Wall id="110" row="21" col="0" />
+				<Wall id="111" row="22" col="0" />
+				<Wall id="112" row="23" col="0" />
+				<Wall id="113" row="24" col="0" />
+				<Wall id="114" row="25" col="0" />
+				<Wall id="115" row="26" col="0" />
+				<Wall id="116" row="27" col="0" />
+				<Wall id="89" row="28" col="0" />
+				<Wall id="88" row="29" col="0" />
+				<Wall id="87" row="29" col="1" />
+				<Wall id="86" row="29" col="2" />
+				<Wall id="85" row="29" col="3" />
+				<Wall id="84" row="29" col="4" />
+				<Wall id="83" row="29" col="5" />
+				<Wall id="74" row="29" col="14" />
+				<Wall id="73" row="29" col="15" />
+				<Wall id="72" row="29" col="16" />
+				<Wall id="71" row="29" col="17" />
+				<Wall id="70" row="29" col="18" />
+				<Wall id="69" row="29" col="19" />
+				<Wall id="68" row="29" col="20" />
+				<Wall id="67" row="29" col="21" />
+				<Wall id="66" row="29" col="22" />
+				<Wall id="65" row="29" col="23" />
+				<Wall id="64" row="29" col="24" />
+				<Wall id="63" row="29" col="25" />
+				<Wall id="62" row="29" col="26" />
+				<Wall id="61" row="29" col="27" />
+				<Wall id="60" row="29" col="28" />
+				<Wall id="54" row="24" col="29" />
+				<Wall id="55" row="25" col="29" />
+				<Wall id="56" row="26" col="29" />
+				<Wall id="57" row="27" col="29" />
+				<Wall id="58" row="28" col="29" />
+				<Wall id="59" row="29" col="29" />
+			</walls>
+		</level>

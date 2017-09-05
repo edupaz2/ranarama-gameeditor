@@ -1,0 +1,191 @@
+<level id="1" name="cuatro" length="20" width="20" author="Rok 8 Studios" rooms_number="5" >
+	<rooms>
+		<room id="1">
+			<Tile row="3" col="3" />
+			<Tile row="2" col="3" />
+			<Tile row="2" col="4" />
+			<Tile row="3" col="4" />
+			<Tile row="4" col="3" />
+			<Tile row="4" col="4" />
+			<Tile row="2" col="5" />
+			<Tile row="3" col="5" />
+			<Tile row="4" col="5" />
+			<Tile row="5" col="3" />
+			<Tile row="5" col="4" />
+			<Tile row="5" col="5" />
+			<Tile row="6" col="3" />
+			<Tile row="6" col="4" />
+			<Tile row="6" col="5" />
+			<doors>
+				<Door id="80" row="7" col="4" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+				<Start id="88" row="3" col="3" />
+				<Lift id="89" row="5" col="5" liftid="1" />
+			</entities>
+		</room>
+		<room id="2">
+			<Tile row="8" col="4" />
+			<Tile row="8" col="3" />
+			<Tile row="8" col="5" />
+			<Tile row="9" col="3" />
+			<Tile row="9" col="4" />
+			<Tile row="9" col="5" />
+			<Tile row="8" col="6" />
+			<Tile row="9" col="6" />
+			<Tile row="8" col="7" />
+			<Tile row="9" col="7" />
+			<doors>
+				<Door id="80" row="7" col="4" hidden="False" orientation="North"/>
+				<Door id="82" row="8" col="8" hidden="False" orientation="East"/>
+			</doors>
+			<entities>
+			</entities>
+		</room>
+		<room id="3">
+			<Tile row="8" col="9" />
+			<Tile row="8" col="10" />
+			<Tile row="9" col="9" />
+			<Tile row="9" col="10" />
+			<Tile row="8" col="11" />
+			<Tile row="9" col="11" />
+			<Tile row="7" col="12" />
+			<Tile row="8" col="12" />
+			<Tile row="9" col="12" />
+			<Tile row="6" col="12" />
+			<Tile row="6" col="13" />
+			<Tile row="7" col="13" />
+			<Tile row="8" col="13" />
+			<Tile row="9" col="13" />
+			<Tile row="5" col="12" />
+			<Tile row="5" col="13" />
+			<doors>
+				<Door id="82" row="8" col="8" hidden="False" orientation="East"/>
+				<Door id="84" row="10" col="12" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+			</entities>
+		</room>
+		<room id="4">
+			<Tile row="11" col="12" />
+			<Tile row="11" col="13" />
+			<Tile row="12" col="12" />
+			<Tile row="12" col="13" />
+			<Tile row="13" col="12" />
+			<Tile row="13" col="13" />
+			<Tile row="14" col="12" />
+			<Tile row="14" col="13" />
+			<doors>
+				<Door id="84" row="10" col="12" hidden="False" orientation="North"/>
+				<Door id="87" row="15" col="13" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+			</entities>
+		</room>
+		<room id="5">
+			<Tile row="16" col="13" />
+			<Tile row="16" col="12" />
+			<Tile row="17" col="12" />
+			<Tile row="17" col="13" />
+			<Tile row="18" col="11" />
+			<Tile row="18" col="12" />
+			<Tile row="18" col="13" />
+			<Tile row="18" col="14" />
+			<Tile row="18" col="10" />
+			<Tile row="18" col="15" />
+			<Tile row="18" col="9" />
+			<Tile row="18" col="16" />
+			<doors>
+				<Door id="87" row="15" col="13" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+				<Lift id="90" row="17" col="12" liftid="2" />
+			</entities>
+		</room>
+	</rooms>
+	<walls>
+		<Wall id="34" row="2" col="2" />
+		<Wall id="35" row="3" col="2" />
+		<Wall id="36" row="4" col="2" />
+		<Wall id="1" row="1" col="2" />
+		<Wall id="2" row="1" col="3" />
+		<Wall id="3" row="1" col="4" />
+		<Wall id="4" row="1" col="5" />
+		<Wall id="37" row="5" col="2" />
+		<Wall id="5" row="1" col="6" />
+		<Wall id="6" row="2" col="6" />
+		<Wall id="7" row="3" col="6" />
+		<Wall id="8" row="4" col="6" />
+		<Wall id="9" row="5" col="6" />
+		<Wall id="38" row="6" col="2" />
+		<Wall id="10" row="6" col="6" />
+		<Wall id="39" row="7" col="2" />
+		<Wall id="79" row="7" col="3" />
+		<Wall id="81" row="7" col="5" />
+		<Wall id="11" row="7" col="6" />
+		<Wall id="40" row="8" col="2" />
+		<Wall id="41" row="9" col="2" />
+		<Wall id="42" row="10" col="2" />
+		<Wall id="43" row="10" col="3" />
+		<Wall id="44" row="10" col="4" />
+		<Wall id="45" row="10" col="5" />
+		<Wall id="46" row="10" col="6" />
+		<Wall id="12" row="7" col="7" />
+		<Wall id="47" row="10" col="7" />
+		<Wall id="13" row="7" col="8" />
+		<Wall id="83" row="9" col="8" />
+		<Wall id="48" row="10" col="8" />
+		<Wall id="14" row="7" col="9" />
+		<Wall id="15" row="7" col="10" />
+		<Wall id="16" row="7" col="11" />
+		<Wall id="49" row="10" col="9" />
+		<Wall id="50" row="10" col="10" />
+		<Wall id="51" row="10" col="11" />
+		<Wall id="17" row="6" col="11" />
+		<Wall id="85" row="10" col="13" />
+		<Wall id="18" row="5" col="11" />
+		<Wall id="23" row="5" col="14" />
+		<Wall id="24" row="6" col="14" />
+		<Wall id="25" row="7" col="14" />
+		<Wall id="26" row="8" col="14" />
+		<Wall id="27" row="9" col="14" />
+		<Wall id="28" row="10" col="14" />
+		<Wall id="19" row="4" col="11" />
+		<Wall id="20" row="4" col="12" />
+		<Wall id="21" row="4" col="13" />
+		<Wall id="22" row="4" col="14" />
+		<Wall id="52" row="11" col="11" />
+		<Wall id="53" row="12" col="11" />
+		<Wall id="29" row="11" col="14" />
+		<Wall id="30" row="12" col="14" />
+		<Wall id="54" row="13" col="11" />
+		<Wall id="31" row="13" col="14" />
+		<Wall id="55" row="14" col="11" />
+		<Wall id="71" row="14" col="14" />
+		<Wall id="56" row="15" col="11" />
+		<Wall id="86" row="15" col="12" />
+		<Wall id="72" row="15" col="14" />
+		<Wall id="73" row="16" col="14" />
+		<Wall id="74" row="17" col="14" />
+		<Wall id="57" row="16" col="11" />
+		<Wall id="32" row="17" col="11" />
+		<Wall id="33" row="17" col="10" />
+		<Wall id="63" row="19" col="10" />
+		<Wall id="64" row="19" col="11" />
+		<Wall id="65" row="19" col="12" />
+		<Wall id="66" row="19" col="13" />
+		<Wall id="67" row="19" col="14" />
+		<Wall id="75" row="17" col="15" />
+		<Wall id="68" row="19" col="15" />
+		<Wall id="58" row="17" col="9" />
+		<Wall id="62" row="19" col="9" />
+		<Wall id="76" row="17" col="16" />
+		<Wall id="69" row="19" col="16" />
+		<Wall id="59" row="17" col="8" />
+		<Wall id="60" row="18" col="8" />
+		<Wall id="61" row="19" col="8" />
+		<Wall id="77" row="17" col="17" />
+		<Wall id="78" row="18" col="17" />
+		<Wall id="70" row="19" col="17" />
+	</walls>
+</level>

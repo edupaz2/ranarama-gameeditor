@@ -1,0 +1,153 @@
+<level name="prueba2" width="20" length="10" author="Rok 8 Studios">
+	<room id="1">
+		<tiles>(1,10),(0,9),(0,10),(0,11),(1,11),(2,9),(2,10),(2,11),(1,9),(0,8),(2,8),(1,8),(0,7),(2,7),(1,7),(0,6),(2,6),(1,6),(0,5),(2,5),(1,5),(0,4),(2,4),(1,4),(0,3),(2,3),(1,3),(0,2),(2,2),(1,2),(0,1),(1,1),(0,0),(1,0),(2,0),(2,1),(3,0),(3,2),(3,1),(4,0),(4,2),(4,1),(5,0),(5,2),(5,1),(6,0),(6,2),(6,1),(7,0),(7,1),(8,0),(7,2),(6,3),(7,3),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(7,4),(9,4),(8,4),(7,5),(9,5),(8,5),(7,6),(9,6),(8,6),(7,7),(9,7),(8,7),(7,8),(9,8),(8,8),(7,9),(9,9),(8,9),(7,10),(9,10),(8,10),(9,11),(7,11),(6,10),(8,11),(9,12),(6,11),(5,10),(5,11),(5,12),(6,12),(5,13),(7,12),(8,12),(9,13),(6,13),(5,14),(6,14),(7,14),(7,13),(8,14),(8,13),(1,10)</tiles>
+		<doors>71, 75, 83, 71</doors>
+		<entities>107,108,109,107</entities>
+	</room>
+	<room id="2">
+		<tiles>(5,3),(4,2),(5,2),(6,2),(6,3),(4,3),(3,2),(4,4),(5,4),(6,4),(7,3),(7,4),(7,5),(3,3),(2,2),(2,3),(2,4),(3,4),(2,5),(3,5),(2,6),(3,6),(4,6),(4,5),(5,6),(5,5),(6,6),(6,5),(5,3)</tiles>
+		<doors>71, 75, 83, 71</doors>
+		<entities>106,106</entities>
+	</room>
+	<room id="3">
+		<tiles>(6,8),(7,7),(7,8),(7,9),(5,7),(4,6),(5,6),(6,6),(5,8),(5,9),(4,10),(5,10),(6,10),(6,7),(7,6),(6,9),(7,10),(4,7),(3,6),(4,8),(4,9),(3,10),(3,7),(2,6),(2,7),(2,8),(3,8),(2,9),(3,9),(6,8)</tiles>
+		<doors>71, 75, 83, 71</doors>
+		<entities>120,112,111,120</entities>
+	</room>
+	<room id="4">
+		<tiles>(4,12),(3,13),(5,11),(5,12),(5,13),(3,11),(2,10),(2,11),(3,10),(4,10),(3,12),(2,13),(4,11),(5,10),(4,13),(3,14),(4,14),(5,14),(2,12),(1,11),(1,13),(1,12),(0,11),(0,12),(4,12)</tiles>
+		<doors>71, 75, 83, 91, 71</doors>
+		<entities>119</entities>
+	</room>
+	<room id="5">
+		<tiles>(1,14),(0,13),(0,14),(0,15),(1,13),(2,13),(1,15),(0,16),(2,14),(3,13),(3,14),(2,15),(1,16),(0,17),(2,16),(3,15),(4,14),(3,16),(1,17),(0,18),(2,17),(3,17),(4,15),(5,14),(5,15),(5,16),(4,16),(5,17),(4,17),(5,18),(1,18),(0,19),(1,19),(2,19),(2,18),(3,19),(3,18),(4,19),(4,18),(1,14)</tiles>
+		<doors>71, 75, 83, 91, 68, 71</doors>
+		<entities>114,105,115,114</entities>
+	</room>
+	<room id="6">
+		<tiles>(6,17),(5,16),(5,17),(5,18),(6,16),(5,15),(6,18),(5,19),(6,19),(7,19),(7,16),(7,17),(7,18),(8,19),(6,15),(5,14),(6,14),(7,14),(7,15),(8,14),(8,15),(9,14),(9,15),(9,16),(8,16),(9,17),(8,17),(9,18),(8,18),(6,17)</tiles>
+		<doors>71, 75, 83, 91, 68, 71</doors>
+		<entities>116,116</entities>
+	</room>
+	<entity type="Wall" id="1" row="0" col="0" />
+	<entity type="Wall" id="2" row="0" col="1" />
+	<entity type="Wall" id="3" row="0" col="2" />
+	<entity type="Wall" id="4" row="0" col="3" />
+	<entity type="Wall" id="5" row="0" col="4" />
+	<entity type="Wall" id="6" row="0" col="5" />
+	<entity type="Wall" id="7" row="0" col="6" />
+	<entity type="Wall" id="8" row="0" col="7" />
+	<entity type="Wall" id="9" row="0" col="8" />
+	<entity type="Wall" id="10" row="0" col="9" />
+	<entity type="Wall" id="11" row="0" col="10" />
+	<entity type="Wall" id="12" row="0" col="11" />
+	<entity type="Wall" id="13" row="0" col="12" />
+	<entity type="Wall" id="14" row="0" col="13" />
+	<entity type="Wall" id="15" row="0" col="14" />
+	<entity type="Wall" id="16" row="0" col="15" />
+	<entity type="Wall" id="17" row="0" col="16" />
+	<entity type="Wall" id="18" row="0" col="17" />
+	<entity type="Wall" id="19" row="0" col="18" />
+	<entity type="Wall" id="20" row="0" col="19" />
+	<entity type="Wall" id="21" row="9" col="0" />
+	<entity type="Wall" id="22" row="9" col="1" />
+	<entity type="Wall" id="23" row="9" col="2" />
+	<entity type="Wall" id="24" row="9" col="3" />
+	<entity type="Wall" id="25" row="9" col="4" />
+	<entity type="Wall" id="26" row="9" col="5" />
+	<entity type="Wall" id="27" row="9" col="6" />
+	<entity type="Wall" id="28" row="9" col="7" />
+	<entity type="Wall" id="29" row="9" col="8" />
+	<entity type="Wall" id="30" row="9" col="9" />
+	<entity type="Wall" id="31" row="9" col="10" />
+	<entity type="Wall" id="32" row="9" col="11" />
+	<entity type="Wall" id="33" row="9" col="12" />
+	<entity type="Wall" id="34" row="9" col="13" />
+	<entity type="Wall" id="35" row="9" col="14" />
+	<entity type="Wall" id="36" row="9" col="15" />
+	<entity type="Wall" id="37" row="9" col="16" />
+	<entity type="Wall" id="38" row="9" col="17" />
+	<entity type="Wall" id="39" row="9" col="18" />
+	<entity type="Wall" id="40" row="9" col="19" />
+	<entity type="Wall" id="41" row="8" col="0" />
+	<entity type="Wall" id="42" row="7" col="0" />
+	<entity type="Wall" id="43" row="6" col="0" />
+	<entity type="Wall" id="44" row="5" col="0" />
+	<entity type="Wall" id="45" row="4" col="0" />
+	<entity type="Wall" id="46" row="3" col="0" />
+	<entity type="Wall" id="47" row="2" col="0" />
+	<entity type="Wall" id="48" row="1" col="0" />
+	<entity type="Wall" id="49" row="8" col="19" />
+	<entity type="Wall" id="50" row="7" col="19" />
+	<entity type="Wall" id="51" row="6" col="19" />
+	<entity type="Wall" id="52" row="5" col="19" />
+	<entity type="Wall" id="53" row="4" col="19" />
+	<entity type="Wall" id="54" row="3" col="19" />
+	<entity type="Wall" id="55" row="2" col="19" />
+	<entity type="Wall" id="56" row="1" col="19" />
+	<entity type="Wall" id="57" row="2" col="2" />
+	<entity type="Wall" id="58" row="2" col="3" />
+	<entity type="Wall" id="59" row="2" col="4" />
+	<entity type="Wall" id="60" row="2" col="5" />
+	<entity type="Wall" id="61" row="2" col="6" />
+	<entity type="Wall" id="62" row="2" col="7" />
+	<entity type="Wall" id="63" row="2" col="8" />
+	<entity type="Wall" id="64" row="2" col="9" />
+	<entity type="Wall" id="65" row="2" col="10" />
+	<entity type="Wall" id="66" row="2" col="11" />
+	<entity type="Wall" id="67" row="1" col="11" />
+	<entity type="Wall" id="69" row="3" col="2" />
+	<entity type="Wall" id="70" row="4" col="2" />
+	<entity type="Wall" id="72" row="6" col="2" />
+	<entity type="Wall" id="73" row="6" col="3" />
+	<entity type="Wall" id="74" row="7" col="3" />
+	<entity type="Wall" id="76" row="7" col="5" />
+	<entity type="Wall" id="77" row="7" col="6" />
+	<entity type="Wall" id="78" row="6" col="6" />
+	<entity type="Wall" id="79" row="5" col="6" />
+	<entity type="Wall" id="80" row="4" col="6" />
+	<entity type="Wall" id="81" row="3" col="6" />
+	<entity type="Wall" id="82" row="7" col="7" />
+	<entity type="Wall" id="84" row="7" col="9" />
+	<entity type="Wall" id="85" row="7" col="10" />
+	<entity type="Wall" id="86" row="6" col="10" />
+	<entity type="Wall" id="87" row="5" col="10" />
+	<entity type="Wall" id="88" row="4" col="10" />
+	<entity type="Wall" id="89" row="3" col="10" />
+	<entity type="Wall" id="90" row="5" col="11" />
+	<entity type="Wall" id="92" row="5" col="13" />
+	<entity type="Wall" id="93" row="5" col="14" />
+	<entity type="Wall" id="94" row="4" col="14" />
+	<entity type="Wall" id="95" row="3" col="14" />
+	<entity type="Wall" id="96" row="3" col="13" />
+	<entity type="Wall" id="97" row="2" col="13" />
+	<entity type="Wall" id="98" row="6" col="14" />
+	<entity type="Wall" id="99" row="7" col="14" />
+	<entity type="Wall" id="100" row="8" col="14" />
+	<entity type="Wall" id="101" row="5" col="15" />
+	<entity type="Wall" id="102" row="5" col="16" />
+	<entity type="Wall" id="104" row="5" col="18" />
+	<entity type="Generator" id="105" row="1" col="17" ratio ="0.0" enemyType="None" />
+	<entity type="Generator" id="106" row="3" col="4" ratio ="0.0" enemyType="None" />
+	<entity type="Start" id="107" row="1" col="10" />
+	<entity type="Generator" id="108" row="7" col="2" ratio ="0.0" enemyType="None" />
+	<entity type="Table" id="109" row="6" col="11" width="2" length="1" orientation="East" />
+	<entity type="Closet" id="110" row="3" col="9" width="1" length="1" orientation="North" />
+	<entity type="Closet" id="111" row="3" col="8" width="1" length="1" orientation="North" />
+	<entity type="Closet" id="112" row="3" col="7" width="1" length="1" orientation="North" />
+	<entity type="Barrel" id="113" row="8" col="13" width="1" length="1" orientation="North" />
+	<entity type="Box" id="114" row="3" col="16" width="1" length="1" orientation="North" />
+	<entity type="Box" id="115" row="3" col="17" width="1" length="1" orientation="North" />
+	<entity type="Box" id="116" row="7" col="16" width="1" length="1" orientation="North" />
+	<entity type="Container" id="117" row="4" col="16" width="1" length="1" orientation="North" />
+	<entity type="Container" id="118" row="6" col="5" width="1" length="1" orientation="North" />
+	<entity type="Container" id="119" row="4" col="11" width="1" length="1" orientation="North" />
+	<entity type="Door" id="71" row="5" col="2" hidden="False" orientation="East"/>
+	<entity type="Door" id="75" row="7" col="4" hidden="False" orientation="North"/>
+	<entity type="Door" id="83" row="7" col="8" hidden="False" orientation="North"/>
+	<entity type="Door" id="91" row="5" col="12" hidden="False" orientation="North"/>
+	<entity type="Door" id="103" row="5" col="17" hidden="False" orientation="North"/>
+	<entity type="Door" id="68" row="1" col="13" hidden="False" orientation="East"/>
+	<entity type="Generator" id="120" row="5" col="8" ratio ="0.0" enemyType="None" />
+	<entity type="Generator" id="121" row="8" col="18" ratio ="0.0" enemyType="None" />
+</level>

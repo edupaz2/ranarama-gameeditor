@@ -1,0 +1,81 @@
+<level name="prueba" length="10" width="10" author="Rok 8 Studios">
+	<room id="1">
+		<tiles>(8,1),(7,0),(8,0),(9,0),(9,1),(9,2),(7,1),(6,0),(7,2),(8,2),(9,3),(6,1),(5,0),(6,2),(6,3),(5,4),(6,4),(7,4),(7,3),(8,4),(8,3),(9,4),(5,1),(4,0),(4,1),(4,2),(5,2),(4,3),(5,3),(8,1)</tiles>
+		<doors>42</doors>
+		<entities>52</entities>
+	</room>
+	<room id="2">
+		<tiles>(6,5),(5,4),(6,4),(7,4),(5,5),(4,4),(4,5),(4,6),(5,6),(4,7),(6,6),(7,5),(8,4),(7,6),(5,7),(4,8),(6,7),(7,7),(8,5),(9,4),(9,5),(9,6),(8,6),(9,7),(8,7),(9,8),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(6,5)</tiles>
+		<doors>42, 42</doors>
+		<entities>56,56</entities>
+	</room>
+	<room id="3">
+		<tiles>(3,7),(4,6),(4,7),(4,8),(2,6),(2,7),(2,8),(1,9),(2,9),(3,9),(3,6),(4,5),(3,8),(4,9),(1,5),(0,4),(0,5),(0,6),(1,4),(2,4),(1,6),(0,7),(1,7),(0,8),(2,5),(3,4),(3,5),(4,4),(1,8),(3,7)</tiles>
+		<doors>42, 50, 42</doors>
+		<entities>55,57,55</entities>
+	</room>
+	<room id="4">
+		<tiles>(2,3),(1,4),(2,4),(3,4),(1,2),(0,1),(0,2),(0,3),(1,3),(0,4),(2,2),(3,2),(4,1),(4,2),(4,3),(3,3),(4,4),(1,1),(0,0),(1,0),(2,0),(2,1),(3,0),(3,1),(2,3)</tiles>
+		<doors>42, 50, 42</doors>
+		<entities>58,58</entities>
+	</room>
+	<entity type="Wall" id="1" row="0" col="0" />
+	<entity type="Wall" id="2" row="0" col="1" />
+	<entity type="Wall" id="3" row="0" col="2" />
+	<entity type="Wall" id="4" row="0" col="3" />
+	<entity type="Wall" id="5" row="0" col="4" />
+	<entity type="Wall" id="6" row="0" col="5" />
+	<entity type="Wall" id="7" row="0" col="6" />
+	<entity type="Wall" id="8" row="0" col="7" />
+	<entity type="Wall" id="9" row="0" col="8" />
+	<entity type="Wall" id="10" row="0" col="9" />
+	<entity type="Wall" id="11" row="1" col="9" />
+	<entity type="Wall" id="12" row="3" col="9" />
+	<entity type="Wall" id="13" row="2" col="9" />
+	<entity type="Wall" id="14" row="4" col="9" />
+	<entity type="Wall" id="15" row="5" col="9" />
+	<entity type="Wall" id="16" row="6" col="9" />
+	<entity type="Wall" id="17" row="7" col="9" />
+	<entity type="Wall" id="18" row="9" col="9" />
+	<entity type="Wall" id="19" row="8" col="9" />
+	<entity type="Wall" id="20" row="9" col="8" />
+	<entity type="Wall" id="21" row="9" col="7" />
+	<entity type="Wall" id="22" row="9" col="6" />
+	<entity type="Wall" id="23" row="9" col="5" />
+	<entity type="Wall" id="24" row="9" col="4" />
+	<entity type="Wall" id="25" row="9" col="3" />
+	<entity type="Wall" id="26" row="9" col="2" />
+	<entity type="Wall" id="27" row="9" col="1" />
+	<entity type="Wall" id="28" row="9" col="0" />
+	<entity type="Wall" id="29" row="8" col="0" />
+	<entity type="Wall" id="30" row="7" col="0" />
+	<entity type="Wall" id="31" row="6" col="0" />
+	<entity type="Wall" id="32" row="5" col="0" />
+	<entity type="Wall" id="33" row="4" col="0" />
+	<entity type="Wall" id="34" row="3" col="0" />
+	<entity type="Wall" id="35" row="2" col="0" />
+	<entity type="Wall" id="36" row="1" col="0" />
+	<entity type="Wall" id="37" row="1" col="4" />
+	<entity type="Wall" id="39" row="3" col="4" />
+	<entity type="Wall" id="40" row="4" col="4" />
+	<entity type="Wall" id="41" row="5" col="4" />
+	<entity type="Wall" id="43" row="7" col="4" />
+	<entity type="Wall" id="44" row="8" col="4" />
+	<entity type="Wall" id="45" row="4" col="1" />
+	<entity type="Wall" id="46" row="4" col="2" />
+	<entity type="Wall" id="47" row="4" col="3" />
+	<entity type="Wall" id="48" row="4" col="5" />
+	<entity type="Wall" id="49" row="4" col="6" />
+	<entity type="Wall" id="51" row="4" col="8" />
+	<entity type="Door" id="38" row="2" col="4" hidden="False" orientation="East"/>
+	<entity type="Door" id="42" row="6" col="4" hidden="False" orientation="East"/>
+	<entity type="Door" id="50" row="4" col="7" hidden="False" orientation="North"/>
+	<entity type="Start" id="52" row="8" col="1" />
+	<entity type="Table" id="53" row="2" col="2" width="2" length="1" orientation="East" />
+	<entity type="Computer" id="54" row="8" col="8" width="3" length="2" orientation="South" />
+	<entity type="Lift" id="55" row="2" col="8" liftID="1" />
+	<entity type="SaveSlab" id="56" row="5" col="6" />
+	<entity type="BombSlab" id="57" row="1" col="6" />
+	<entity type="Generator" id="58" row="1" col="3" ratio ="0.0" enemyType="None" />
+	<entity type="Generator" id="59" row="3" col="5" ratio ="0.0" enemyType="None" />
+</level>

@@ -1,0 +1,532 @@
+<lifts>
+</lifts>
+<levels>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+	<level name="p" rows="10" cols="10">
+		<rooms>
+			<room id="1"/>
+				<tiles>(2,2),(1,1),(0,0),(0,1),(0,2),(1,0),(2,0),(1,2),(0,3),(1,3),(0,4),(1,4),(2,4),(2,1),(3,0),(2,3),(3,4),(3,1),(4,0),(3,2),(3,3),(4,4),(4,1),(5,0),(4,2),(4,3),(5,1),(6,0),(5,2),(5,3),(5,4),(4,5),(5,5),(6,5),(6,1),(7,0),(6,2),(6,3),(6,4),(7,5),(7,1),(8,0),(7,2),(7,3),(7,4),(8,5),(8,1),(9,0),(9,1),(9,2),(8,2),(9,3),(8,3),(9,4),(8,4),(2,2)</tiles>
+				<doors>44</doors>
+				<entities>38,49,50,51,38</entities>
+			</room>
+			<room id="2"/>
+				<tiles>(7,6),(6,5),(7,5),(8,5),(6,6),(5,5),(6,7),(7,7),(8,6),(9,5),(9,6),(9,7),(8,7),(9,8),(5,6),(4,5),(5,7),(5,8),(4,9),(5,9),(6,9),(6,8),(7,9),(7,8),(8,9),(8,8),(9,9),(4,6),(4,7),(4,8),(3,9),(3,5),(2,4),(3,4),(4,4),(3,6),(3,7),(3,8),(2,9),(2,5),(1,4),(2,6),(2,7),(2,8),(1,9),(1,5),(0,4),(0,5),(0,6),(1,6),(0,7),(1,7),(0,8),(1,8),(7,6)</tiles>
+				<doors>44</doors>
+				<entities>53</entities>
+			</room>
+		</rooms>		<entities>
+			<wall id="1" row="0" col="0" />
+			<wall id="2" row="0" col="1" />
+			<wall id="3" row="0" col="2" />
+			<wall id="4" row="0" col="3" />
+			<wall id="5" row="0" col="4" />
+			<wall id="6" row="0" col="5" />
+			<wall id="7" row="0" col="7" />
+			<wall id="8" row="0" col="6" />
+			<wall id="9" row="0" col="8" />
+			<wall id="10" row="0" col="9" />
+			<wall id="11" row="1" col="9" />
+			<wall id="12" row="2" col="9" />
+			<wall id="13" row="3" col="9" />
+			<wall id="14" row="4" col="9" />
+			<wall id="15" row="5" col="9" />
+			<wall id="16" row="6" col="9" />
+			<wall id="17" row="7" col="9" />
+			<wall id="18" row="8" col="9" />
+			<wall id="19" row="9" col="9" />
+			<wall id="20" row="9" col="8" />
+			<wall id="21" row="9" col="7" />
+			<wall id="22" row="9" col="6" />
+			<wall id="23" row="9" col="5" />
+			<wall id="24" row="9" col="4" />
+			<wall id="25" row="9" col="3" />
+			<wall id="26" row="9" col="2" />
+			<wall id="27" row="9" col="1" />
+			<wall id="28" row="9" col="0" />
+			<wall id="29" row="8" col="0" />
+			<wall id="30" row="7" col="0" />
+			<wall id="31" row="6" col="0" />
+			<wall id="32" row="5" col="0" />
+			<wall id="33" row="4" col="0" />
+			<wall id="34" row="3" col="0" />
+			<wall id="35" row="2" col="0" />
+			<wall id="36" row="1" col="0" />
+			<wall id="39" row="4" col="5" />
+			<wall id="40" row="4" col="4" />
+			<wall id="42" row="5" col="5" />
+			<wall id="43" row="6" col="5" />
+			<wall id="45" row="8" col="5" />
+			<door id="44" row="7" col="5" hidden="False" orientation="East"/>
+			<saveslab id="49" row="4" col="2" />
+			<saveslab id="50" row="5" col="2" />
+			<bombslab id="51" row="6" col="1" />
+			<obstacle id="53" row="5" col="6" rowsize="3" colsize="2" orientacion="North" type="Computer" />
+			<obstacle id="54" row="6" col="2" rowsize="3" colsize="2" orientacion="North" type="Machine" />
+			<wall id="37" row="3" col="4" />
+			<wall id="46" row="2" col="4" />
+			<wall id="47" row="1" col="4" />
+			<start id="38" row="2" col="2" />
+		</entities>
+	</level>
+</levels>

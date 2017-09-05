@@ -1,0 +1,42 @@
+<level id="1" name="o" length="5" width="5" author="Rok 8 Studios" rooms_number="1" >
+	<rooms>
+		<room id="1">
+			<Tile col="1" row="1" />
+			<Tile col="2" row="1" />
+			<Tile col="1" row="2" />
+			<Tile col="2" row="2" />
+			<Tile col="3" row="1" />
+			<Tile col="3" row="2" />
+			<Tile col="1" row="3" />
+			<Tile col="2" row="3" />
+			<Tile col="3" row="3" />
+			<doors>
+			</doors>
+			<entities>
+				<Start id="17" row="1" col="1" />
+				<Slab type="BombSlab" id="18" col="2" row="1" />
+				<Slab type="MapSlab" id="20" col="1" row="2" />
+				<Slab type="SaveSlab" id="21" col="2" row="2" />
+				<Slab type="PentagramSlab" id="19" col="3" row="1" />
+			</entities>
+		</room>
+	</rooms>
+	<walls>
+		<Wall id="1" row="0" col="0" />
+		<Wall id="2" row="0" col="1" />
+		<Wall id="3" row="0" col="2" />
+		<Wall id="16" row="1" col="0" />
+		<Wall id="15" row="2" col="0" />
+		<Wall id="4" row="0" col="3" />
+		<Wall id="14" row="3" col="0" />
+		<Wall id="5" row="0" col="4" />
+		<Wall id="6" row="1" col="4" />
+		<Wall id="7" row="2" col="4" />
+		<Wall id="8" row="3" col="4" />
+		<Wall id="13" row="4" col="0" />
+		<Wall id="12" row="4" col="1" />
+		<Wall id="11" row="4" col="2" />
+		<Wall id="10" row="4" col="3" />
+		<Wall id="9" row="4" col="4" />
+	</walls>
+</level>

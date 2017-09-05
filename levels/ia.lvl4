@@ -1,0 +1,77 @@
+<level id="1" name="ia" length="10" width="5" author="Rok 8 Studios" rooms_number="3" >
+	<rooms>
+		<room id="1">
+			<Tile row="1" col="1" />
+			<Tile row="1" col="2" />
+			<Tile row="2" col="1" />
+			<Tile row="2" col="2" />
+			<Tile row="1" col="3" />
+			<Tile row="2" col="3" />
+			<doors>
+				<Door id="28" row="3" col="2" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+				<Start id="33" row="1" col="1" />
+			</entities>
+		</room>
+		<room id="2">
+			<Tile row="4" col="2" />
+			<Tile row="4" col="1" />
+			<Tile row="4" col="3" />
+			<Tile row="5" col="1" />
+			<Tile row="5" col="2" />
+			<Tile row="5" col="3" />
+			<doors>
+				<Door id="28" row="3" col="2" hidden="False" orientation="North"/>
+				<Door id="31" row="6" col="2" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+			</entities>
+		</room>
+		<room id="3">
+			<Tile row="7" col="2" />
+			<Tile row="7" col="1" />
+			<Tile row="7" col="3" />
+			<Tile row="8" col="1" />
+			<Tile row="8" col="2" />
+			<Tile row="8" col="3" />
+			<doors>
+				<Door id="31" row="6" col="2" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+			</entities>
+		</room>
+	</rooms>
+	<walls>
+		<Wall id="1" row="0" col="0" />
+		<Wall id="2" row="0" col="1" />
+		<Wall id="3" row="0" col="2" />
+		<Wall id="26" row="1" col="0" />
+		<Wall id="25" row="2" col="0" />
+		<Wall id="4" row="0" col="3" />
+		<Wall id="24" row="3" col="0" />
+		<Wall id="27" row="3" col="1" />
+		<Wall id="29" row="3" col="3" />
+		<Wall id="5" row="0" col="4" />
+		<Wall id="6" row="1" col="4" />
+		<Wall id="7" row="2" col="4" />
+		<Wall id="8" row="3" col="4" />
+		<Wall id="23" row="4" col="0" />
+		<Wall id="22" row="5" col="0" />
+		<Wall id="9" row="4" col="4" />
+		<Wall id="10" row="5" col="4" />
+		<Wall id="21" row="6" col="0" />
+		<Wall id="30" row="6" col="1" />
+		<Wall id="32" row="6" col="3" />
+		<Wall id="11" row="6" col="4" />
+		<Wall id="20" row="7" col="0" />
+		<Wall id="19" row="8" col="0" />
+		<Wall id="12" row="7" col="4" />
+		<Wall id="13" row="8" col="4" />
+		<Wall id="18" row="9" col="0" />
+		<Wall id="17" row="9" col="1" />
+		<Wall id="16" row="9" col="2" />
+		<Wall id="15" row="9" col="3" />
+		<Wall id="14" row="9" col="4" />
+	</walls>
+</level>

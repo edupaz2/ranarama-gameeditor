@@ -1,0 +1,51 @@
+<level id="1" name="t" length="5" width="5" author="Rok 8 Studios" rooms_number="2" >
+	<rooms>
+		<room id="1">
+			<Tile col="1" row="1" />
+			<Tile col="2" row="1" />
+			<Tile col="3" row="1" />
+			<doors>
+				<Door id="18" col="2" row="2" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+				<Start id="20" row="1" col="1" />
+			</entities>
+			<walls>
+				<Wall id="1" col="0" row="0" />
+				<Wall id="2" col="1" row="0" />
+				<Wall id="3" col="2" row="0" />
+				<Wall id="16" col="0" row="1" />
+				<Wall id="15" col="0" row="2" />
+				<Wall id="17" col="1" row="2" />
+				<Wall id="4" col="3" row="0" />
+				<Wall id="19" col="3" row="2" />
+				<Wall id="5" col="4" row="0" />
+				<Wall id="6" col="4" row="1" />
+				<Wall id="7" col="4" row="2" />
+			</walls>
+		</room>
+		<room id="2">
+			<Tile col="2" row="3" />
+			<Tile col="1" row="3" />
+			<Tile col="3" row="3" />
+			<doors>
+				<Door id="18" col="2" row="2" hidden="False" orientation="North"/>
+			</doors>
+			<entities>
+			</entities>
+			<walls>
+				<Wall id="17" col="1" row="2" />
+				<Wall id="19" col="3" row="2" />
+				<Wall id="12" col="1" row="4" />
+				<Wall id="11" col="2" row="4" />
+				<Wall id="10" col="3" row="4" />
+				<Wall id="15" col="0" row="2" />
+				<Wall id="14" col="0" row="3" />
+				<Wall id="13" col="0" row="4" />
+				<Wall id="7" col="4" row="2" />
+				<Wall id="8" col="4" row="3" />
+				<Wall id="9" col="4" row="4" />
+			</walls>
+		</room>
+	</rooms>
+</level>
